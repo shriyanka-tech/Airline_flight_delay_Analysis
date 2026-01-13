@@ -20,7 +20,8 @@ Source: US DOT / Kaggle Airline Delay Dataset
 - Airport-wise delay analysis
 
 ## 📈 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+!<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76e6ec4b-798c-491e-a57d-f4868229c83e" />
+
 
 ## 📌 Insights
 - Certain airlines show higher average delays
